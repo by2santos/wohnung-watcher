@@ -26,9 +26,8 @@ from bs4 import BeautifulSoup
 # ------------------------------------------------------------------
 
 # URL de búsqueda. Puedes cambiar el filtro (p.ej. rent_net][max]=600)
-SEARCH_URL = os.environ.get(
-    "SEARCH_URL",
-    "https://www.inberlinwohnen.de/wohnungsfinder?q[rent_net][max]=600&q[save_search_profile]=0",
+SEARCH_URL = os.environ.get("SEARCH_URL") or (
+    "https://www.inberlinwohnen.de/wohnungsfinder?q[rent_net][max]=600&q[save_search_profile]=0"
 )
 
 MAX_PAGES = int(os.environ.get("MAX_PAGES", "10"))
