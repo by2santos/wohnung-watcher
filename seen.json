@@ -11,12 +11,9 @@
   "https://www.berlinovo.de/de/wohnung-id/1230-2388-3114",
   "https://www.berlinovo.de/de/wohnung-id/1230-2389-1116",
   "https://www.berlinovo.de/de/wohnung-id/1230-2389-1117",
-  "https://www.berlinovo.de/de/wohnung-id/1230-2389-1128",
   "https://www.berlinovo.de/de/wohnung-id/1230-2389-1132",
   "https://www.berlinovo.de/de/wohnung-id/1230-2389-1215",
   "https://www.berlinovo.de/de/wohnung-id/1230-2389-1216",
-  "https://www.berlinovo.de/de/wohnung-id/1230-2389-1406",
-  "https://www.berlinovo.de/de/wohnung-id/1230-2389-1417",
   "https://www.degewo.de/de/properties/W1100-41908-0139-0102.html",
   "https://www.degewo.de/de/properties/W1140-00527-0221-0201.html",
   "https://www.degewo.de/de/properties/W1150-00245-0721-0721.html",
@@ -36,6 +33,7 @@
   "https://www.degewo.de/de/properties/W1400-40010-0420-0402.html",
   "https://www.degewo.de/de/properties/W1400-40032-0460-0203.html",
   "https://www.degewo.de/de/properties/W1400-40060-1320-0403.html",
+  "https://www.degewo.de/de/properties/W1400-40323-0180-0306.html",
   "https://www.degewo.de/de/properties/W1400-51811-0028-0404.html",
   "https://www.degewo.de/de/properties/W1400-51907-0207-0102.html",
   "https://www.degewo.de/de/properties/W3110-02304-0184-0301.html",
@@ -99,5 +97,7 @@
   "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-31100-236.html?t=ibw",
   "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-31110-10.html?t=ibw",
   "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-31125-326.html?t=ibw",
-  "https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518503/7/121"
+  "https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518503/7/121",
+  "https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518504/8/124",
+  "https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518505/1/22"
 ]
