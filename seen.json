@@ -37,8 +37,6 @@
   "https://www.degewo.de/de/properties/W1140-00674-0034-0401.html",
   "https://www.degewo.de/de/properties/W1140-11802-0130-1805.html",
   "https://www.degewo.de/de/properties/W1300-10803-0002-0101.html",
-  "https://www.degewo.de/de/properties/W1300-30902-0008-0402.html",
-  "https://www.degewo.de/de/properties/W1300-32801-0046-0301.html",
   "https://www.degewo.de/de/properties/W1300-41906-0012-0120.html",
   "https://www.degewo.de/de/properties/W1300-41906-0013-0121.html",
   "https://www.degewo.de/de/properties/W1300-41906-0014-0201.html",
@@ -49,8 +47,10 @@
   "https://www.degewo.de/de/properties/W1300-65902-0015-0401.html",
   "https://www.degewo.de/de/properties/W1300-65903-0045-0301.html",
   "https://www.degewo.de/de/properties/W1400-06080-0055-0402.html",
+  "https://www.degewo.de/de/properties/W1400-40081-0630-0905.html",
+  "https://www.degewo.de/de/properties/W1400-40090-0870-0301.html",
   "https://www.degewo.de/de/properties/W1400-40095-0260-0406.html",
-  "https://www.degewo.de/de/properties/W1400-40142-0770-1002.html",
+  "https://www.degewo.de/de/properties/W1400-40359-0260-0502.html",
   "https://www.degewo.de/de/properties/W1400-40539-0490-0701.html",
   "https://www.degewo.de/de/properties/W1400-40832-0050-0301.html",
   "https://www.degewo.de/de/properties/W1400-57002-0160-0103.html",
@@ -98,6 +98,6 @@
   "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33555-76.html?t=ibw",
   "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33557-31.html?t=ibw",
   "https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33559-244.html?t=ibw",
-  "https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518503/13/244",
+  "https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-2007/19/246",
   "https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518504/6/85"
 ]
